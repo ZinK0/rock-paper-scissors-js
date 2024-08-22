@@ -1,0 +1,3 @@
+# ROCK PAPER SCISSOR TERMINAL GAME
+
+<img src="./assets/ROCK_PAPER_SCISSOR.png" width="1000">
